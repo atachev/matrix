@@ -39,7 +39,7 @@ int main()
     printf("\n");
     avr/=count;
     printf("Average= %.2f\n",avr);
-    printf("Suma= %d\n",sum);
+    printf("Sum= %d\n",sum);
     system("pause");
     return 0;
 }
